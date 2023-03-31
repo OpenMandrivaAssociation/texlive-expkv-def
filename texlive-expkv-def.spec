@@ -1,6 +1,6 @@
 Name:		texlive-expkv-def
 Version:	61796
-Release:	1
+Release:	2
 Summary:	A key-defining frontend for expkv
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv-def
