@@ -3,7 +3,7 @@ Version:	61796
 Release:	2
 Summary:	A key-defining frontend for expkv
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv-def
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/expkv-def
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv-def.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv-def.doc.r%{version}.tar.xz
